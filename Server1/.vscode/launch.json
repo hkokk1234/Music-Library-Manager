@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Server1Main",
+        "request": "launch",
+        "mainClass": "com.example.server1.Server1Main",
+        "projectName": "Server1_db8b62a9"
+    },
+    {
+        "type": "java",
+        "name": "Launch Server1Main",
+        "request": "launch",
+        "mainClass": "com.example.server1.Server1Main",
+        "projectName": "Server1",
+        "classpath": [
+            "${workspaceFolder}/build/classes",
+            "C:/Users/zoroz/Downloads/NetBeansProjects/Client/dist/Client.jar"
+        ]
+    }
+]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/BookingFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/AdminAddEventFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/model/Booking.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/AdminDeleteUserFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/UserEventsListFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/LoginFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/MainMenuUserFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/communication/ClientCallbackInterface.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/model/Event.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/model/Payment.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/communication/Client.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/AdminDeactivateEventFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/communication/ClientRMIInterface.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/MainMenuAdminFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/AdminEventsListFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/UserBookingsListFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/UserCancelBookingFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/RegisterFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/project/UserBookingFrame.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/model/User.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/src/com/example/client/model/Show.java</file>
+            <file>file:/C:/Users/zoroz/Downloads/NetBeansProjects/Client/nbproject/build-impl.xml</file>
+        </group>
+    </open-files>
+</project-private>

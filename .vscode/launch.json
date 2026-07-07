@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Server2Main",
+        "request": "launch",
+        "mainClass": "com.example.server2.Server2Main",
+        "projectName": "ergasia_9fef44d7"
+    },
+    {
+        "type": "java",
+        "name": "LoginFrame",
+        "request": "launch",
+        "mainClass": "project.LoginFrame",
+        "projectName": "NetBeansProjects_5db1fe8a"
+    },
+    {
+        "type": "java",
+        "name": "Server1Main",
+        "request": "launch",
+        "mainClass": "com.example.server1.Server1Main",
+        "projectName": "NetBeansProjects_5db1fe8a"
+    },
+    {
+        "type": "java",
+        "name": "Server2Main",
+        "request": "launch",
+        "mainClass": "com.example.server2.Server2Main",
+        "projectName": "NetBeansProjects_5db1fe8a"
+    }
+]
+}

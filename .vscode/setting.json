@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "Client/src",
+    "Server1/src",
+    "Server2/src"
+  ],
+  "java.project.outputPath": "bin","vmArgs": "-Djava.awt.headless=false"
+
+  
+}
